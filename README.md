@@ -7,6 +7,4 @@
   <li>Feature1 : Delete Every todo at once.</li>
   <li>Improve UI</li>
   <li>Improve CSS</li>
-  <li></li>
-  <li></li>
 </ul>
